@@ -24,6 +24,25 @@
     API_URL = "http://localhost:8000/api/pdf/upload/"  
     PDF_PATH = "path\\to\\file.pdf"
 
+    def test_pdf_upload():
+    with open(PDF_PATH, "rb") as f:
+        files = {
+            "original_file": ("test.pdf", f, "application/pdf")
+        }
+
+        try:
+            response = requests.post(API_URL, files=files)
+            print("Status code:", response.status_code)
+            print("Response:")
+            print(response.json())
+
+        except Exception as e:
+            print("Error:", e)
+
+
+if __name__ == "__main__":
+    test_pdf_upload()
+
 В ответе на запрос в поле document_id будет представлен UUID вашего запроса. Используя GET запросы на URL /api/pdf/result/<document_id> и /api/pdf/status/<document_id> вы можете получить спаршенный JSON и статус реквеста соответственно.
 
 Админская панель доступна по URL /admin/. Дефолтные креды: admin/admin. Для создания суперюзера используйте:

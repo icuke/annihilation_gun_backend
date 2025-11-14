@@ -1,5 +1,5 @@
 # annihilation_gun_backend
-Бэкэнд и API на Django REST Framework.
+Бэкэнд и API на Django REST Framework для OCR парсера инвойсов.
 
 # Set-up:
 1. Установите зависимости:

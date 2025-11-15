@@ -3,7 +3,7 @@ import time
 import random
 from typing import Dict, List, Any
 
-def process_pdf_with_dummy_ocr(pdf_path: str) -> Dict[str, Any]:
+def process_pdf(pdf_path: str) -> Dict[str, Any]:
     processing_time = random.uniform(2.0, 5.0)
     time.sleep(processing_time)
     
@@ -35,7 +35,6 @@ def process_pdf_with_dummy_ocr(pdf_path: str) -> Dict[str, Any]:
     return dummy_data
 
 def generate_dummy_text_blocks(page_num: int) -> List[Dict[str, Any]]:
-    """Генерация dummy текстовых блоков"""
     text_samples = [
         "azazazazazazazazazazazaz",
     ]
@@ -60,8 +59,7 @@ def generate_dummy_text_blocks(page_num: int) -> List[Dict[str, Any]]:
     return blocks
 
 def generate_dummy_tables(page_num: int) -> List[Dict[str, Any]]:
-    """Генерация dummy таблиц"""
-    if random.random() < 0.3:  # 30% chance to have a table
+    if random.random() < 0.3:
         return []
     
     rows = random.randint(3, 6)
@@ -88,8 +86,7 @@ def generate_dummy_tables(page_num: int) -> List[Dict[str, Any]]:
     }]
 
 def generate_dummy_images(page_num: int) -> List[Dict[str, Any]]:
-    """Генерация dummy информации об изображениях"""
-    if random.random() < 0.5:  # 50% chance to have images
+    if random.random() < 0.5:
         return []
     
     num_images = random.randint(1, 2)

@@ -1,7 +1,7 @@
 import os
 import json
 import time
-from .dummy_ocr import process_pdf_with_dummy_ocr
+from .ocr_caller import process_pdf
 
 def process_pdf_file(pdf_document) -> dict:
     start_time = time.time()
@@ -12,7 +12,7 @@ def process_pdf_file(pdf_document) -> dict:
         if not os.path.exists(pdf_path):
             raise FileNotFoundError(f"PDF file not found: {pdf_path}")
         
-        result = process_pdf_with_dummy_ocr(pdf_path)
+        result = process_pdf(pdf_path)
         
         processing_time = time.time() - start_time
         result['metadata']['actual_processing_time'] = round(processing_time, 2)

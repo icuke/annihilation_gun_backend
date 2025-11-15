@@ -1,0 +1,1079 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "text_blocks": [
+        {
+          "text": "'Еннанна ' Счвт дайптвигmивн ца 1D ПB ZDZ5;",
+          "confidence": 0.03937715745810285,
+          "bounding_box": {
+            "x": 657,
+            "y": 131,
+            "width": 582,
+            "height": 36
+          }
+        },
+        {
+          "text": "Опллта дяннпта ЕЧЕIн паНП:=er сПzсид € уЕпЕЕнЕН ппЕТаВНИ #ыиая:",
+          "confidence": 0.007358576203158727,
+          "bounding_box": {
+            "x": 490,
+            "y": 158,
+            "width": 919,
+            "height": 42
+          }
+        },
+        {
+          "text": "~ЕЕдПЫПЕН ;Е шПпЕпе Еылани",
+          "confidence": 0.010101755561548008,
+          "bounding_box": {
+            "x": 469,
+            "y": 189,
+            "width": 481,
+            "height": 32
+          }
+        },
+        {
+          "text": "R прячана\" Епчнп на тпрантнн Еын",
+          "confidence": 0.033227172494419685,
+          "bounding_box": {
+            "x": 957,
+            "y": 198,
+            "width": 486,
+            "height": 31
+          }
+        },
+        {
+          "text": "напиннв Тавзра #п сулалв. Тсряр атПускпатся па фангу прчтада двнаг",
+          "confidence": 0.10744281742600634,
+          "bounding_box": {
+            "x": 498,
+            "y": 218,
+            "width": 905,
+            "height": 43
+          }
+        },
+        {
+          "text": "#п",
+          "confidence": 0.27729619620009127,
+          "bounding_box": {
+            "x": 481,
+            "y": 259,
+            "width": 35,
+            "height": 18
+          }
+        },
+        {
+          "text": "EJE ПЕЕтнПпинна",
+          "confidence": 0.2054282075210493,
+          "bounding_box": {
+            "x": 516,
+            "y": 249,
+            "width": 212,
+            "height": 32
+          }
+        },
+        {
+          "text": "Ечныпыврзам, ПП\" КНПИЧНн ДЕППЕнынПЕи # П#ПпПт=",
+          "confidence": 0.023841661662149415,
+          "bounding_box": {
+            "x": 734,
+            "y": 254,
+            "width": 689,
+            "height": 36
+          }
+        },
+        {
+          "text": "Образец запопненин платежнага папучанин",
+          "confidence": 0.3699291859877837,
+          "bounding_box": {
+            "x": 821,
+            "y": 349,
+            "width": 770,
+            "height": 52
+          }
+        },
+        {
+          "text": "[ФРАЛЬСКИЙ БАНК ПАО СБЕРБАНК г Екатеринбунг",
+          "confidence": 0.355494365617052,
+          "bounding_box": {
+            "x": 131,
+            "y": 381,
+            "width": 867,
+            "height": 61
+          }
+        },
+        {
+          "text": "EИK",
+          "confidence": 0.3511152926901853,
+          "bounding_box": {
+            "x": 1120,
+            "y": 399,
+            "width": 83,
+            "height": 39
+          }
+        },
+        {
+          "text": "ПДЕ57ТЕТ#",
+          "confidence": 0.10025293455444464,
+          "bounding_box": {
+            "x": 1282,
+            "y": 399,
+            "width": 184,
+            "height": 39
+          }
+        },
+        {
+          "text": "Еч Nы",
+          "confidence": 0.17335626120030964,
+          "bounding_box": {
+            "x": 1120,
+            "y": 443,
+            "width": 111,
+            "height": 37
+          }
+        },
+        {
+          "text": "301018105UП09U0U0574",
+          "confidence": 0.22899158817729615,
+          "bounding_box": {
+            "x": 1281,
+            "y": 437,
+            "width": 401,
+            "height": 50
+          }
+        },
+        {
+          "text": "Енн# ПаПаятиян",
+          "confidence": 0.2888023984375339,
+          "bounding_box": {
+            "x": 132,
+            "y": 466,
+            "width": 223,
+            "height": 32
+          }
+        },
+        {
+          "text": "Тинн",
+          "confidence": 0.7868353724479675,
+          "bounding_box": {
+            "x": 125,
+            "y": 501,
+            "width": 91,
+            "height": 36
+          }
+        },
+        {
+          "text": "Ef7E[E515U",
+          "confidence": 0.07755328294997892,
+          "bounding_box": {
+            "x": 238,
+            "y": 498,
+            "width": 206,
+            "height": 42
+          }
+        },
+        {
+          "text": "КПП",
+          "confidence": 0.3148060097401259,
+          "bounding_box": {
+            "x": 624,
+            "y": 501,
+            "width": 86,
+            "height": 39
+          }
+        },
+        {
+          "text": "ЕБ7ЕО1ОU1",
+          "confidence": 0.1291470181894596,
+          "bounding_box": {
+            "x": 737,
+            "y": 506,
+            "width": 184,
+            "height": 42
+          }
+        },
+        {
+          "text": "Ен; Ng",
+          "confidence": 0.3287977139045046,
+          "bounding_box": {
+            "x": 1123,
+            "y": 512,
+            "width": 108,
+            "height": 36
+          }
+        },
+        {
+          "text": "по762a10: 1654001Е346",
+          "confidence": 0.06346720840303975,
+          "bounding_box": {
+            "x": 1284,
+            "y": 506,
+            "width": 400,
+            "height": 50
+          }
+        },
+        {
+          "text": "6l0 \"КамБэ# Урал",
+          "confidence": 0.17123083872077258,
+          "bounding_box": {
+            "x": 124,
+            "y": 538,
+            "width": 335,
+            "height": 48
+          }
+        },
+        {
+          "text": "[Енд дп;",
+          "confidence": 0.6164807118347821,
+          "bounding_box": {
+            "x": 1119,
+            "y": 557,
+            "width": 109,
+            "height": 36
+          }
+        },
+        {
+          "text": "u1",
+          "confidence": 0.14876338176143655,
+          "bounding_box": {
+            "x": 1285,
+            "y": 558,
+            "width": 44,
+            "height": 37
+          }
+        },
+        {
+          "text": "Еnk пляг",
+          "confidence": 0.15740428081002686,
+          "bounding_box": {
+            "x": 1448,
+            "y": 559,
+            "width": 144,
+            "height": 32
+          }
+        },
+        {
+          "text": "[Нлт пп",
+          "confidence": 0.5046738066594262,
+          "bounding_box": {
+            "x": 1116,
+            "y": 598,
+            "width": 112,
+            "height": 36
+          }
+        },
+        {
+          "text": "[ЕнпП: пляТ:",
+          "confidence": 0.11494810756603305,
+          "bounding_box": {
+            "x": 1445,
+            "y": 600,
+            "width": 158,
+            "height": 40
+          }
+        },
+        {
+          "text": "[зка5п:TmF",
+          "confidence": 0.06892597295515747,
+          "bounding_box": {
+            "x": 1280,
+            "y": 639,
+            "width": 150,
+            "height": 31
+          }
+        },
+        {
+          "text": "[Пспучвшиль",
+          "confidence": 0.2833810581289461,
+          "bounding_box": {
+            "x": 116,
+            "y": 656,
+            "width": 164,
+            "height": 45
+          }
+        },
+        {
+          "text": "[кад",
+          "confidence": 0.39049428701400757,
+          "bounding_box": {
+            "x": 1116,
+            "y": 653,
+            "width": 67,
+            "height": 39
+          }
+        },
+        {
+          "text": "[шнанашт;",
+          "confidence": 0.12222788009508023,
+          "bounding_box": {
+            "x": 1283,
+            "y": 666,
+            "width": 144,
+            "height": 32
+          }
+        },
+        {
+          "text": "{Рta . пллв",
+          "confidence": 0.16512756551526378,
+          "bounding_box": {
+            "x": 1448,
+            "y": 658,
+            "width": 133,
+            "height": 32
+          }
+        },
+        {
+          "text": "Оплата По зяказу КпивНта NRYТ-4942",
+          "confidence": 0.4232083545215871,
+          "bounding_box": {
+            "x": 116,
+            "y": 706,
+            "width": 633,
+            "height": 51
+          }
+        },
+        {
+          "text": "[Нааначенна ППаТЕНа",
+          "confidence": 0.10009077378707358,
+          "bounding_box": {
+            "x": 110,
+            "y": 768,
+            "width": 286,
+            "height": 31
+          }
+        },
+        {
+          "text": "Счет на оплату Ng УТ-4942 от 10 сентября 2025 r",
+          "confidence": 0.7681973178366275,
+          "bounding_box": {
+            "x": 107,
+            "y": 863,
+            "width": 1212,
+            "height": 74
+          }
+        },
+        {
+          "text": "Паставщик'",
+          "confidence": 0.6673634144592631,
+          "bounding_box": {
+            "x": 100,
+            "y": 1010,
+            "width": 205,
+            "height": 45
+          }
+        },
+        {
+          "text": "0ОО \"КамБэк-Урал\", ИНН 6679065150 , КПП 667901001, 620024, Свердповская абл; & Екатеринбург; ул: Похадная;",
+          "confidence": 0.306416604836739,
+          "bounding_box": {
+            "x": 329,
+            "y": 990,
+            "width": 1936,
+            "height": 61
+          }
+        },
+        {
+          "text": "БTр: B1, ЕкП: 6, теп:: #7 (343] 2B9-11-B0",
+          "confidence": 0.16836829047309582,
+          "bounding_box": {
+            "x": 326,
+            "y": 1032,
+            "width": 662,
+            "height": 49
+          }
+        },
+        {
+          "text": "Пакупатыль;",
+          "confidence": 0.8663634544739892,
+          "bounding_box": {
+            "x": 93,
+            "y": 1110,
+            "width": 218,
+            "height": 50
+          }
+        },
+        {
+          "text": "Ag кМК:Высата\"; ИНН 6672212600, КПП 660501061, 620026, ₽; Екатеринбург уп. Пуначарскога; д  194, оф- 103",
+          "confidence": 0.1642666013275816,
+          "bounding_box": {
+            "x": 324,
+            "y": 1110,
+            "width": 1886,
+            "height": 56
+          }
+        },
+        {
+          "text": "Ставка",
+          "confidence": 0.9060599218975625,
+          "bounding_box": {
+            "x": 1661,
+            "y": 1200,
+            "width": 134,
+            "height": 39
+          }
+        },
+        {
+          "text": "Ia",
+          "confidence": 0.0936166240370742,
+          "bounding_box": {
+            "x": 123,
+            "y": 1219,
+            "width": 52,
+            "height": 36
+          }
+        },
+        {
+          "text": "Артинул",
+          "confidence": 0.9256377682251969,
+          "bounding_box": {
+            "x": 211,
+            "y": 1214,
+            "width": 164,
+            "height": 51
+          }
+        },
+        {
+          "text": "Тавары (работы; услуги)",
+          "confidence": 0.7115041366283528,
+          "bounding_box": {
+            "x": 520,
+            "y": 1213,
+            "width": 462,
+            "height": 52
+          }
+        },
+        {
+          "text": "Капичвства",
+          "confidence": 0.9606182422468869,
+          "bounding_box": {
+            "x": 1148,
+            "y": 1219,
+            "width": 220,
+            "height": 42
+          }
+        },
+        {
+          "text": "Цвна",
+          "confidence": 0.9565631747245789,
+          "bounding_box": {
+            "x": 1460,
+            "y": 1225,
+            "width": 97,
+            "height": 36
+          }
+        },
+        {
+          "text": " Сумма НДС",
+          "confidence": 0.799444298045731,
+          "bounding_box": {
+            "x": 1847,
+            "y": 1215,
+            "width": 215,
+            "height": 55
+          }
+        },
+        {
+          "text": "Суыма",
+          "confidence": 0.2916795186049699,
+          "bounding_box": {
+            "x": 2116,
+            "y": 1217,
+            "width": 131,
+            "height": 53
+          }
+        },
+        {
+          "text": "НДс",
+          "confidence": 0.34637086487717844,
+          "bounding_box": {
+            "x": 1690,
+            "y": 1237,
+            "width": 90,
+            "height": 49
+          }
+        },
+        {
+          "text": "Крвпемкипся дПн трYG ПЕЛш Еврая [TПD шгуп]",
+          "confidence": 0.15709506789511468,
+          "bounding_box": {
+            "x": 378,
+            "y": 1285,
+            "width": 688,
+            "height": 39
+          }
+        },
+        {
+          "text": "Izн-п1zн2",
+          "confidence": 0.5426921929340817,
+          "bounding_box": {
+            "x": 202,
+            "y": 1312,
+            "width": 146,
+            "height": 39
+          }
+        },
+        {
+          "text": "FEKANF",
+          "confidence": 0.586177563207051,
+          "bounding_box": {
+            "x": 379,
+            "y": 1316,
+            "width": 124,
+            "height": 32
+          }
+        },
+        {
+          "text": "iin 13",
+          "confidence": 0.27552656253956875,
+          "bounding_box": {
+            "x": 1521,
+            "y": 1318,
+            "width": 99,
+            "height": 36
+          }
+        },
+        {
+          "text": "Z.h;",
+          "confidence": 0.04153537005186081,
+          "bounding_box": {
+            "x": 1776,
+            "y": 1315,
+            "width": 69,
+            "height": 36
+          }
+        },
+        {
+          "text": " 5,02",
+          "confidence": 0.7018339161610626,
+          "bounding_box": {
+            "x": 1984,
+            "y": 1312,
+            "width": 86,
+            "height": 42
+          }
+        },
+        {
+          "text": "21,13",
+          "confidence": 0.9154833106380096,
+          "bounding_box": {
+            "x": 2203,
+            "y": 1315,
+            "width": 97,
+            "height": 36
+          }
+        },
+        {
+          "text": "ТдуЕл гафтиашванная #: ПН} Е #андан, ЕЕПНЧ",
+          "confidence": 0.022331461629661216,
+          "bounding_box": {
+            "x": 381,
+            "y": 1357,
+            "width": 651,
+            "height": 32
+          }
+        },
+        {
+          "text": "#IzH IizП 2",
+          "confidence": 0.32424718153436455,
+          "bounding_box": {
+            "x": 169,
+            "y": 1386,
+            "width": 173,
+            "height": 37
+          }
+        },
+        {
+          "text": "Емта ТDLыпп] EEXAUТ",
+          "confidence": 0.08533096611789107,
+          "bounding_box": {
+            "x": 386,
+            "y": 1386,
+            "width": 340,
+            "height": 39
+          }
+        },
+        {
+          "text": "T.D",
+          "confidence": 0.15500583890763048,
+          "bounding_box": {
+            "x": 1174,
+            "y": 1390,
+            "width": 56,
+            "height": 32
+          }
+        },
+        {
+          "text": "I2T6",
+          "confidence": 0.11039786785840988,
+          "bounding_box": {
+            "x": 1540,
+            "y": 1389,
+            "width": 80,
+            "height": 36
+          }
+        },
+        {
+          "text": "znт",
+          "confidence": 0.4933696064802751,
+          "bounding_box": {
+            "x": 1781,
+            "y": 1386,
+            "width": 66,
+            "height": 37
+          }
+        },
+        {
+          "text": "IПF,TD",
+          "confidence": 0.24658609205946377,
+          "bounding_box": {
+            "x": 1974,
+            "y": 1387,
+            "width": 95,
+            "height": 32
+          }
+        },
+        {
+          "text": "1 2-5.00",
+          "confidence": 0.29911936619921176,
+          "bounding_box": {
+            "x": 2187,
+            "y": 1386,
+            "width": 116,
+            "height": 37
+          }
+        },
+        {
+          "text": "Епяк Рпя тu\" 7яЕ",
+          "confidence": 0.01406313359414418,
+          "bounding_box": {
+            "x": 375,
+            "y": 1425,
+            "width": 236,
+            "height": 36
+          }
+        },
+        {
+          "text": "₽ FЕяFс% ТЕA; ВыЕЛ; Еla шнура;",
+          "confidence": 0.0176687894044535,
+          "bounding_box": {
+            "x": 619,
+            "y": 1422,
+            "width": 433,
+            "height": 42
+          }
+        },
+        {
+          "text": "Етаа",
+          "confidence": 0.7386648654937744,
+          "bounding_box": {
+            "x": 199,
+            "y": 1458,
+            "width": 91,
+            "height": 36
+          }
+        },
+        {
+          "text": "Кадпнт ППАЕТИН",
+          "confidence": 0.20752085965797246,
+          "bounding_box": {
+            "x": 372,
+            "y": 1458,
+            "width": 245,
+            "height": 36
+          }
+        },
+        {
+          "text": "НаВда",
+          "confidence": 0.47466408729967163,
+          "bounding_box": {
+            "x": 1523,
+            "y": 1458,
+            "width": 100,
+            "height": 36
+          }
+        },
+        {
+          "text": "ZП#",
+          "confidence": 0.2843963424818743,
+          "bounding_box": {
+            "x": 1782,
+            "y": 1459,
+            "width": 67,
+            "height": 31
+          }
+        },
+        {
+          "text": "Ац474",
+          "confidence": 0.512565122780958,
+          "bounding_box": {
+            "x": 1977,
+            "y": 1456,
+            "width": 94,
+            "height": 31
+          }
+        },
+        {
+          "text": "#Е5,42",
+          "confidence": 0.4226329164057102,
+          "bounding_box": {
+            "x": 2209,
+            "y": 1455,
+            "width": 96,
+            "height": 36
+          }
+        },
+        {
+          "text": "Итаго:",
+          "confidence": 0.7016951482974992,
+          "bounding_box": {
+            "x": 1950,
+            "y": 1514,
+            "width": 123,
+            "height": 43
+          }
+        },
+        {
+          "text": "2 314,55",
+          "confidence": 0.9640966439705697,
+          "bounding_box": {
+            "x": 2159,
+            "y": 1512,
+            "width": 149,
+            "height": 45
+          }
+        },
+        {
+          "text": "В тч. НДС [20%]:",
+          "confidence": 0.25507594730116234,
+          "bounding_box": {
+            "x": 1770,
+            "y": 1562,
+            "width": 308,
+            "height": 44
+          }
+        },
+        {
+          "text": "3П5,76",
+          "confidence": 0.23712805911559695,
+          "bounding_box": {
+            "x": 2192,
+            "y": 1562,
+            "width": 122,
+            "height": 44
+          }
+        },
+        {
+          "text": "Итого € НДС:",
+          "confidence": 0.8971726249117754,
+          "bounding_box": {
+            "x": 1838,
+            "y": 1607,
+            "width": 246,
+            "height": 50
+          }
+        },
+        {
+          "text": "2314=5",
+          "confidence": 0.46945419082626755,
+          "bounding_box": {
+            "x": 2165,
+            "y": 1608,
+            "width": 151,
+            "height": 42
+          }
+        },
+        {
+          "text": "Всего наименаваний 3, на суму 2 314,55 RUB",
+          "confidence": 0.510013084390366,
+          "bounding_box": {
+            "x": 78,
+            "y": 1660,
+            "width": 825,
+            "height": 51
+          }
+        },
+        {
+          "text": "Двв тысячи триста четырнадцатъ Рублей 55 копевк",
+          "confidence": 0.5510203348332813,
+          "bounding_box": {
+            "x": 75,
+            "y": 1709,
+            "width": 967,
+            "height": 54
+          }
+        },
+        {
+          "text": "Нунавадитель",
+          "confidence": 0.42933624154218186,
+          "bounding_box": {
+            "x": 312,
+            "y": 1973,
+            "width": 263,
+            "height": 44
+          }
+        },
+        {
+          "text": "Шашков СA:",
+          "confidence": 0.4353387866628621,
+          "bounding_box": {
+            "x": 1850,
+            "y": 1963,
+            "width": 242,
+            "height": 49
+          }
+        },
+        {
+          "text": "НяЕшаРавЕ7 ПТПМИЕН",
+          "confidence": 0.007607795738031654,
+          "bounding_box": {
+            "x": 1811,
+            "y": 2012,
+            "width": 319,
+            "height": 41
+          }
+        },
+        {
+          "text": "#",
+          "confidence": 0.9973029226975996,
+          "bounding_box": {
+            "x": 1766,
+            "y": 2045,
+            "width": 26,
+            "height": 29
+          }
+        },
+        {
+          "text": "#КинЕэк-Уралъ",
+          "confidence": 0.37283481961195264,
+          "bounding_box": {
+            "x": 1456,
+            "y": 2035,
+            "width": 319,
+            "height": 75
+          }
+        },
+        {
+          "text": "Еукгпптвр",
+          "confidence": 0.6991599954923859,
+          "bounding_box": {
+            "x": 308,
+            "y": 2117,
+            "width": 194,
+            "height": 49
+          }
+        },
+        {
+          "text": "Cet",
+          "confidence": 0.14215897568698643,
+          "bounding_box": {
+            "x": 801,
+            "y": 2095,
+            "width": 132,
+            "height": 55
+          }
+        },
+        {
+          "text": "Шашкон € A:",
+          "confidence": 0.3573030326485791,
+          "bounding_box": {
+            "x": 1855,
+            "y": 2107,
+            "width": 242,
+            "height": 45
+          }
+        },
+        {
+          "text": "ЕагшиЕтиа ПацП#ЕН",
+          "confidence": 0.06467013979927086,
+          "bounding_box": {
+            "x": 1814,
+            "y": 2155,
+            "width": 321,
+            "height": 41
+          }
+        },
+        {
+          "text": "#E",
+          "confidence": 0.19792042212943114,
+          "bounding_box": {
+            "x": 1496,
+            "y": 2187,
+            "width": 44,
+            "height": 39
+          }
+        },
+        {
+          "text": "Hi",
+          "confidence": 0.12745946683124834,
+          "bounding_box": {
+            "x": 1531,
+            "y": 2216,
+            "width": 27,
+            "height": 21
+          }
+        },
+        {
+          "text": "[оф  2Очu",
+          "confidence": 0.3518531200467596,
+          "bounding_box": {
+            "x": 1453,
+            "y": 2437,
+            "width": 620,
+            "height": 183
+          }
+        },
+        {
+          "text": "[uьъt",
+          "confidence": 0.09951532655574363,
+          "bounding_box": {
+            "x": 2107,
+            "y": 2455,
+            "width": 325,
+            "height": 73
+          }
+        },
+        {
+          "text": "&",
+          "confidence": 0.8790320948106825,
+          "bounding_box": {
+            "x": 838,
+            "y": 2554,
+            "width": 75,
+            "height": 75
+          }
+        },
+        {
+          "text": "Ячок [оуаск",
+          "confidence": 0.17636569441322994,
+          "bounding_box": {
+            "x": 1946,
+            "y": 2571,
+            "width": 523,
+            "height": 122
+          }
+        },
+        {
+          "text": "I",
+          "confidence": 0.4845908879591576,
+          "bounding_box": {
+            "x": 954,
+            "y": 2629,
+            "width": 98,
+            "height": 134
+          }
+        },
+        {
+          "text": "Yp",
+          "confidence": 0.4941937773233806,
+          "bounding_box": {
+            "x": 1695,
+            "y": 2709,
+            "width": 151,
+            "height": 88
+          }
+        },
+        {
+          "text": "ЖФРФлл- <C",
+          "confidence": 0.14840759222129635,
+          "bounding_box": {
+            "x": 1842,
+            "y": 2674,
+            "width": 596,
+            "height": 147
+          }
+        },
+        {
+          "text": "((лим %1у",
+          "confidence": 0.1723220419943206,
+          "bounding_box": {
+            "x": 1600,
+            "y": 2822,
+            "width": 382,
+            "height": 109
+          }
+        },
+        {
+          "text": "Бенарацма",
+          "confidence": 0.3196160148035168,
+          "bounding_box": {
+            "x": 1497,
+            "y": 1916,
+            "width": 159,
+            "height": 0
+          }
+        },
+        {
+          "text": "Еа}т",
+          "confidence": 0.2068462073802948,
+          "bounding_box": {
+            "x": 1563,
+            "y": 1923,
+            "width": 73,
+            "height": 17
+          }
+        },
+        {
+          "text": "ауtg",
+          "confidence": 0.039817508310079575,
+          "bounding_box": {
+            "x": 1532,
+            "y": 2177,
+            "width": 119,
+            "height": 66
+          }
+        },
+        {
+          "text": "НЕЕтва",
+          "confidence": 0.31681908777716056,
+          "bounding_box": {
+            "x": 1554,
+            "y": 2222,
+            "width": 168,
+            "height": 23
+          }
+        },
+        {
+          "text": "5",
+          "confidence": 0.23760160804988661,
+          "bounding_box": {
+            "x": 1019,
+            "y": 2254,
+            "width": -88,
+            "height": 336
+          }
+        },
+        {
+          "text": "0",
+          "confidence": 0.6718103820754209,
+          "bounding_box": {
+            "x": 1069,
+            "y": 2495,
+            "width": -5,
+            "height": 166
+          }
+        },
+        {
+          "text": "Cbuч",
+          "confidence": 0.2414524257183075,
+          "bounding_box": {
+            "x": 1458,
+            "y": 2632,
+            "width": 476,
+            "height": 37
+          }
+        },
+        {
+          "text": "Ж~?",
+          "confidence": 0.16968641243590848,
+          "bounding_box": {
+            "x": 1469,
+            "y": 2732,
+            "width": 191,
+            "height": 87
+          }
+        }
+      ]
+    }
+  ]
+}

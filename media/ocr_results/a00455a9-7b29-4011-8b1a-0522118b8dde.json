@@ -1,0 +1,886 @@
+{
+  "metadata": {
+    "filename": "C:\\Users\\idicu\\OneDrive\\Desktop\\pdf_ocr_api\\media\\pdf_uploads\\071111bb-2e90-4dfe-9ab9-d7127061a2f1.pdf",
+    "pages": 9,
+    "processing_time": 4.45,
+    "ocr_engine": "dummy_ocr_v1.0",
+    "actual_processing_time": 4.45
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "dimensions": {
+        "width": 944,
+        "height": 909
+      },
+      "text_blocks": [
+        {
+          "id": "block_1_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.95,
+          "bounding_box": {
+            "x": 165,
+            "y": 103,
+            "width": 479,
+            "height": 72
+          },
+          "font_size": 12,
+          "font_family": "Arial"
+        },
+        {
+          "id": "block_1_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.76,
+          "bounding_box": {
+            "x": 152,
+            "y": 400,
+            "width": 390,
+            "height": 55
+          },
+          "font_size": 18,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_1_2",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.73,
+          "bounding_box": {
+            "x": 93,
+            "y": 513,
+            "width": 333,
+            "height": 44
+          },
+          "font_size": 18,
+          "font_family": "Helvetica"
+        }
+      ],
+      "tables": [
+        {
+          "id": "table_1_1",
+          "rows": 6,
+          "columns": 4,
+          "data": [
+            [
+              "Ячейка 1-1",
+              "Ячейка 1-2",
+              "Ячейка 1-3",
+              "Ячейка 1-4"
+            ],
+            [
+              "Ячейка 2-1",
+              "Ячейка 2-2",
+              "Ячейка 2-3",
+              "Ячейка 2-4"
+            ],
+            [
+              "Ячейка 3-1",
+              "Ячейка 3-2",
+              "Ячейка 3-3",
+              "Ячейка 3-4"
+            ],
+            [
+              "Ячейка 4-1",
+              "Ячейка 4-2",
+              "Ячейка 4-3",
+              "Ячейка 4-4"
+            ],
+            [
+              "Ячейка 5-1",
+              "Ячейка 5-2",
+              "Ячейка 5-3",
+              "Ячейка 5-4"
+            ],
+            [
+              "Ячейка 6-1",
+              "Ячейка 6-2",
+              "Ячейка 6-3",
+              "Ячейка 6-4"
+            ]
+          ],
+          "bounding_box": {
+            "x": 221,
+            "y": 413,
+            "width": 305,
+            "height": 223
+          }
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 2,
+      "dimensions": {
+        "width": 933,
+        "height": 1382
+      },
+      "text_blocks": [
+        {
+          "id": "block_2_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.71,
+          "bounding_box": {
+            "x": 134,
+            "y": 190,
+            "width": 491,
+            "height": 63
+          },
+          "font_size": 12,
+          "font_family": "Arial"
+        },
+        {
+          "id": "block_2_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.73,
+          "bounding_box": {
+            "x": 123,
+            "y": 260,
+            "width": 318,
+            "height": 75
+          },
+          "font_size": 16,
+          "font_family": "Helvetica"
+        }
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "page_number": 3,
+      "dimensions": {
+        "width": 646,
+        "height": 1448
+      },
+      "text_blocks": [
+        {
+          "id": "block_3_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.82,
+          "bounding_box": {
+            "x": 178,
+            "y": 242,
+            "width": 416,
+            "height": 46
+          },
+          "font_size": 12,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_3_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.82,
+          "bounding_box": {
+            "x": 90,
+            "y": 378,
+            "width": 418,
+            "height": 59
+          },
+          "font_size": 16,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_3_2",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.92,
+          "bounding_box": {
+            "x": 143,
+            "y": 423,
+            "width": 451,
+            "height": 49
+          },
+          "font_size": 14,
+          "font_family": "Arial"
+        },
+        {
+          "id": "block_3_3",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.77,
+          "bounding_box": {
+            "x": 147,
+            "y": 657,
+            "width": 468,
+            "height": 33
+          },
+          "font_size": 18,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_3_4",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.91,
+          "bounding_box": {
+            "x": 50,
+            "y": 724,
+            "width": 374,
+            "height": 45
+          },
+          "font_size": 18,
+          "font_family": "Arial"
+        }
+      ],
+      "tables": [
+        {
+          "id": "table_3_1",
+          "rows": 5,
+          "columns": 3,
+          "data": [
+            [
+              "Ячейка 1-1",
+              "Ячейка 1-2",
+              "Ячейка 1-3"
+            ],
+            [
+              "Ячейка 2-1",
+              "Ячейка 2-2",
+              "Ячейка 2-3"
+            ],
+            [
+              "Ячейка 3-1",
+              "Ячейка 3-2",
+              "Ячейка 3-3"
+            ],
+            [
+              "Ячейка 4-1",
+              "Ячейка 4-2",
+              "Ячейка 4-3"
+            ],
+            [
+              "Ячейка 5-1",
+              "Ячейка 5-2",
+              "Ячейка 5-3"
+            ]
+          ],
+          "bounding_box": {
+            "x": 273,
+            "y": 445,
+            "width": 382,
+            "height": 190
+          }
+        }
+      ],
+      "images": [
+        {
+          "id": "image_3_0",
+          "type": "signature",
+          "bounding_box": {
+            "x": 593,
+            "y": 205,
+            "width": 161,
+            "height": 177
+          },
+          "confidence": 0.92
+        },
+        {
+          "id": "image_3_1",
+          "type": "photo",
+          "bounding_box": {
+            "x": 407,
+            "y": 160,
+            "width": 229,
+            "height": 128
+          },
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "dimensions": {
+        "width": 1007,
+        "height": 1053
+      },
+      "text_blocks": [
+        {
+          "id": "block_4_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.76,
+          "bounding_box": {
+            "x": 142,
+            "y": 211,
+            "width": 317,
+            "height": 52
+          },
+          "font_size": 12,
+          "font_family": "Arial"
+        },
+        {
+          "id": "block_4_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.79,
+          "bounding_box": {
+            "x": 60,
+            "y": 373,
+            "width": 442,
+            "height": 54
+          },
+          "font_size": 16,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_4_2",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.92,
+          "bounding_box": {
+            "x": 60,
+            "y": 439,
+            "width": 384,
+            "height": 37
+          },
+          "font_size": 16,
+          "font_family": "Arial"
+        },
+        {
+          "id": "block_4_3",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.95,
+          "bounding_box": {
+            "x": 103,
+            "y": 591,
+            "width": 472,
+            "height": 75
+          },
+          "font_size": 18,
+          "font_family": "Arial"
+        }
+      ],
+      "tables": [
+        {
+          "id": "table_4_1",
+          "rows": 3,
+          "columns": 3,
+          "data": [
+            [
+              "Ячейка 1-1",
+              "Ячейка 1-2",
+              "Ячейка 1-3"
+            ],
+            [
+              "Ячейка 2-1",
+              "Ячейка 2-2",
+              "Ячейка 2-3"
+            ],
+            [
+              "Ячейка 3-1",
+              "Ячейка 3-2",
+              "Ячейка 3-3"
+            ]
+          ],
+          "bounding_box": {
+            "x": 297,
+            "y": 425,
+            "width": 306,
+            "height": 257
+          }
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 5,
+      "dimensions": {
+        "width": 822,
+        "height": 844
+      },
+      "text_blocks": [
+        {
+          "id": "block_5_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.72,
+          "bounding_box": {
+            "x": 140,
+            "y": 184,
+            "width": 451,
+            "height": 79
+          },
+          "font_size": 12,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_5_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.84,
+          "bounding_box": {
+            "x": 145,
+            "y": 311,
+            "width": 332,
+            "height": 53
+          },
+          "font_size": 18,
+          "font_family": "Times New Roman"
+        }
+      ],
+      "tables": [
+        {
+          "id": "table_5_1",
+          "rows": 4,
+          "columns": 2,
+          "data": [
+            [
+              "Ячейка 1-1",
+              "Ячейка 1-2"
+            ],
+            [
+              "Ячейка 2-1",
+              "Ячейка 2-2"
+            ],
+            [
+              "Ячейка 3-1",
+              "Ячейка 3-2"
+            ],
+            [
+              "Ячейка 4-1",
+              "Ячейка 4-2"
+            ]
+          ],
+          "bounding_box": {
+            "x": 149,
+            "y": 540,
+            "width": 369,
+            "height": 206
+          }
+        }
+      ],
+      "images": [
+        {
+          "id": "image_5_0",
+          "type": "signature",
+          "bounding_box": {
+            "x": 546,
+            "y": 222,
+            "width": 195,
+            "height": 173
+          },
+          "confidence": 0.91
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "dimensions": {
+        "width": 973,
+        "height": 1557
+      },
+      "text_blocks": [
+        {
+          "id": "block_6_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.88,
+          "bounding_box": {
+            "x": 53,
+            "y": 242,
+            "width": 352,
+            "height": 30
+          },
+          "font_size": 12,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_6_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.86,
+          "bounding_box": {
+            "x": 101,
+            "y": 372,
+            "width": 400,
+            "height": 35
+          },
+          "font_size": 16,
+          "font_family": "Arial"
+        }
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "page_number": 7,
+      "dimensions": {
+        "width": 994,
+        "height": 1570
+      },
+      "text_blocks": [
+        {
+          "id": "block_7_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.79,
+          "bounding_box": {
+            "x": 129,
+            "y": 137,
+            "width": 432,
+            "height": 48
+          },
+          "font_size": 12,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_7_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.8,
+          "bounding_box": {
+            "x": 178,
+            "y": 353,
+            "width": 323,
+            "height": 35
+          },
+          "font_size": 12,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_7_2",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.85,
+          "bounding_box": {
+            "x": 102,
+            "y": 425,
+            "width": 477,
+            "height": 52
+          },
+          "font_size": 14,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_7_3",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.92,
+          "bounding_box": {
+            "x": 128,
+            "y": 569,
+            "width": 403,
+            "height": 34
+          },
+          "font_size": 12,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_7_4",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.79,
+          "bounding_box": {
+            "x": 133,
+            "y": 835,
+            "width": 361,
+            "height": 46
+          },
+          "font_size": 18,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_7_5",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.75,
+          "bounding_box": {
+            "x": 84,
+            "y": 890,
+            "width": 392,
+            "height": 47
+          },
+          "font_size": 18,
+          "font_family": "Times New Roman"
+        }
+      ],
+      "tables": [
+        {
+          "id": "table_7_1",
+          "rows": 3,
+          "columns": 3,
+          "data": [
+            [
+              "Ячейка 1-1",
+              "Ячейка 1-2",
+              "Ячейка 1-3"
+            ],
+            [
+              "Ячейка 2-1",
+              "Ячейка 2-2",
+              "Ячейка 2-3"
+            ],
+            [
+              "Ячейка 3-1",
+              "Ячейка 3-2",
+              "Ячейка 3-3"
+            ]
+          ],
+          "bounding_box": {
+            "x": 145,
+            "y": 491,
+            "width": 305,
+            "height": 242
+          }
+        }
+      ],
+      "images": []
+    },
+    {
+      "page_number": 8,
+      "dimensions": {
+        "width": 1111,
+        "height": 1385
+      },
+      "text_blocks": [
+        {
+          "id": "block_8_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.72,
+          "bounding_box": {
+            "x": 174,
+            "y": 153,
+            "width": 403,
+            "height": 64
+          },
+          "font_size": 16,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_8_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.9,
+          "bounding_box": {
+            "x": 117,
+            "y": 271,
+            "width": 432,
+            "height": 32
+          },
+          "font_size": 12,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_8_2",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.82,
+          "bounding_box": {
+            "x": 177,
+            "y": 540,
+            "width": 438,
+            "height": 48
+          },
+          "font_size": 14,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_8_3",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.75,
+          "bounding_box": {
+            "x": 78,
+            "y": 591,
+            "width": 306,
+            "height": 50
+          },
+          "font_size": 18,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_8_4",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.83,
+          "bounding_box": {
+            "x": 92,
+            "y": 812,
+            "width": 446,
+            "height": 57
+          },
+          "font_size": 14,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_8_5",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.87,
+          "bounding_box": {
+            "x": 144,
+            "y": 985,
+            "width": 308,
+            "height": 75
+          },
+          "font_size": 16,
+          "font_family": "Arial"
+        }
+      ],
+      "tables": [
+        {
+          "id": "table_8_1",
+          "rows": 3,
+          "columns": 4,
+          "data": [
+            [
+              "Ячейка 1-1",
+              "Ячейка 1-2",
+              "Ячейка 1-3",
+              "Ячейка 1-4"
+            ],
+            [
+              "Ячейка 2-1",
+              "Ячейка 2-2",
+              "Ячейка 2-3",
+              "Ячейка 2-4"
+            ],
+            [
+              "Ячейка 3-1",
+              "Ячейка 3-2",
+              "Ячейка 3-3",
+              "Ячейка 3-4"
+            ]
+          ],
+          "bounding_box": {
+            "x": 200,
+            "y": 404,
+            "width": 313,
+            "height": 163
+          }
+        }
+      ],
+      "images": [
+        {
+          "id": "image_8_0",
+          "type": "chart",
+          "bounding_box": {
+            "x": 404,
+            "y": 287,
+            "width": 165,
+            "height": 145
+          },
+          "confidence": 0.81
+        },
+        {
+          "id": "image_8_1",
+          "type": "photo",
+          "bounding_box": {
+            "x": 497,
+            "y": 163,
+            "width": 226,
+            "height": 108
+          },
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "dimensions": {
+        "width": 714,
+        "height": 1344
+      },
+      "text_blocks": [
+        {
+          "id": "block_9_0",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.92,
+          "bounding_box": {
+            "x": 71,
+            "y": 130,
+            "width": 380,
+            "height": 44
+          },
+          "font_size": 14,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_9_1",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.75,
+          "bounding_box": {
+            "x": 136,
+            "y": 268,
+            "width": 492,
+            "height": 47
+          },
+          "font_size": 16,
+          "font_family": "Helvetica"
+        },
+        {
+          "id": "block_9_2",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.82,
+          "bounding_box": {
+            "x": 134,
+            "y": 546,
+            "width": 374,
+            "height": 75
+          },
+          "font_size": 14,
+          "font_family": "Times New Roman"
+        },
+        {
+          "id": "block_9_3",
+          "text": "azazazazazazazazazazazaz",
+          "confidence": 0.94,
+          "bounding_box": {
+            "x": 109,
+            "y": 584,
+            "width": 460,
+            "height": 72
+          },
+          "font_size": 14,
+          "font_family": "Arial"
+        }
+      ],
+      "tables": [
+        {
+          "id": "table_9_1",
+          "rows": 5,
+          "columns": 4,
+          "data": [
+            [
+              "Ячейка 1-1",
+              "Ячейка 1-2",
+              "Ячейка 1-3",
+              "Ячейка 1-4"
+            ],
+            [
+              "Ячейка 2-1",
+              "Ячейка 2-2",
+              "Ячейка 2-3",
+              "Ячейка 2-4"
+            ],
+            [
+              "Ячейка 3-1",
+              "Ячейка 3-2",
+              "Ячейка 3-3",
+              "Ячейка 3-4"
+            ],
+            [
+              "Ячейка 4-1",
+              "Ячейка 4-2",
+              "Ячейка 4-3",
+              "Ячейка 4-4"
+            ],
+            [
+              "Ячейка 5-1",
+              "Ячейка 5-2",
+              "Ячейка 5-3",
+              "Ячейка 5-4"
+            ]
+          ],
+          "bounding_box": {
+            "x": 181,
+            "y": 512,
+            "width": 393,
+            "height": 207
+          }
+        }
+      ],
+      "images": [
+        {
+          "id": "image_9_0",
+          "type": "logo",
+          "bounding_box": {
+            "x": 543,
+            "y": 120,
+            "width": 171,
+            "height": 181
+          },
+          "confidence": 0.88
+        },
+        {
+          "id": "image_9_1",
+          "type": "photo",
+          "bounding_box": {
+            "x": 417,
+            "y": 277,
+            "width": 207,
+            "height": 153
+          },
+          "confidence": 0.83
+        }
+      ]
+    }
+  ]
+}

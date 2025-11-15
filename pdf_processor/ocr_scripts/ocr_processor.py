@@ -15,7 +15,6 @@ def process_pdf_file(pdf_document) -> dict:
         result = process_pdf(pdf_path)
         
         processing_time = time.time() - start_time
-        result['metadata']['actual_processing_time'] = round(processing_time, 2)
         
         return {
             'success': True,

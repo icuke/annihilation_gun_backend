@@ -2,12 +2,18 @@
 Бэкэнд и API на Django REST Framework для OCR парсера инвойсов.
 
 # Set-up:
+Для установки на baremetal:
 1. Установите зависимости:
 
 
         pip install -r requirements.txt
 
-3. Запустите сервер локально:
+2. Выполните миграции:
+   
+           python ./manage.py  makemigrations pds_processor
+           python ./manage.py migrate
+   
+4. Запустите сервер локально:
 
 
        python ./manage.py runserver
@@ -40,8 +46,8 @@
             print("Error:", e)
 
 
-if __name__ == "__main__":
-    test_pdf_upload()
+        if __name__ == "__main__":
+            test_pdf_upload()
 
 В ответе на запрос в поле document_id будет представлен UUID вашего запроса. Используя GET запросы на URL /api/pdf/result/<document_id> и /api/pdf/status/<document_id> вы можете получить спаршенный JSON и статус реквеста соответственно.
 

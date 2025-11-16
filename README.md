@@ -2,6 +2,11 @@
 Бэкэнд и API на Django REST Framework для OCR парсера инвойсов.
 
 # Set-up:
+
+Склонируйте репозиторий:
+
+        git clone https://github.com/icuke/annihilation_gun_backend
+
 Для установки на baremetal:
 1. Установите зависимости:
 
@@ -19,6 +24,11 @@
        python ./manage.py runserver
 
 Порт по умолчанию 8000.
+
+Для установки в контейнер Docker:
+1. Используйте docker-compose для разворачивания контейнера:
+
+        docker compose up --build
 
 # Usage:
 
